@@ -1,1 +1,1 @@
-# Thanks To Andrej Krpathy
+## Al about Neural Networks
